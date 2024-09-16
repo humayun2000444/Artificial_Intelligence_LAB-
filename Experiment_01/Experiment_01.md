@@ -29,6 +29,11 @@ Python is the foundation of AI development, and installing the latest version en
 3. After the download completes, open the installer and follow the steps (click **Next** through the installation process).
 4. Make sure you check the box for **Add Python to PATH**—this step is essential for using Python from the command line.
 
+![image](https://github.com/user-attachments/assets/3740c8b2-76c0-4b88-a026-601f19873bb7)
+![image](https://github.com/user-attachments/assets/e153fc60-73ca-430a-a0bd-c4881cad1a20)
+![image](https://github.com/user-attachments/assets/6a9e05c8-568d-4a49-8699-543e850b4f72)
+![image](https://github.com/user-attachments/assets/6b89bad3-d9d5-451e-aadb-188f9eedcefe)
+
 ### 2. Verify Python Installation
 
 Once Python is installed:
@@ -38,6 +43,8 @@ Once Python is installed:
 
    ```bash
    python -V
+
+![image](https://github.com/user-attachments/assets/1bc5e186-6d06-4173-9236-5d64605de25a)
 
 
 ## Setting Up Jupyter Notebook (For Interactive Coding) 📓
@@ -54,6 +61,8 @@ Jupyter Notebook is an open-source tool that provides an interactive environment
    jupyter notebook
 
 This will open Jupyter in your default web browser, where you can create and run Python notebooks.
+![image](https://github.com/user-attachments/assets/3c95867b-429e-4cf0-8795-170ecbee47cc)
+![image](https://github.com/user-attachments/assets/de15bfd3-c8e9-4232-ba3e-fc1c5c08d474)
 
 
 ## Setting Up NumPy (For Numerical Computations) 🧮
@@ -75,6 +84,9 @@ NumPy is a core library for scientific computing, particularly useful for handli
    python
    import numpy as np
 
+![image](https://github.com/user-attachments/assets/4daaf438-5919-4c7a-95e2-f74c45196797)
+
+
 ## Setting Up Pandas (For Data Manipulation) 🐼
 Pandas is an essential library for data manipulation and analysis, widely used in AI and machine learning workflows.
 
@@ -88,7 +100,9 @@ Pandas is an essential library for data manipulation and analysis, widely used i
       ```bash
    import pandas as pd
    print(pd.__version__)
-      
+
+![image](https://github.com/user-attachments/assets/55cdfcb3-4e3b-48a7-ac11-12c33948047f)
+
 
 # Conclusion 🎉
 With Python, NumPy, Jupyter Notebook, and Pandas installed, you’re now set up for AI development. From here, you can start exploring machine learning libraries like 

@@ -8,7 +8,7 @@ This guide will walk you through setting up Python for AI development, including
 
 ## Why Use Python for AI Development?
 
-- **Ease of learning**: Python’s syntax is clean and easy to understand.
+- **Easy of learning**: Python’s syntax is clean and easy to understand.
 - **Extensive libraries**: Python comes with a wide range of AI and machine learning libraries such as NumPy, Pandas, TensorFlow, PyTorch, Scikit-learn, and more.
 - **Community support**: Python has an active and supportive community that is always contributing to its development.
   
